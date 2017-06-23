@@ -1,6 +1,6 @@
-![intuitive](/images/intuitive.png)
-
 # 22-什么时候可以相信专家的直觉
+
+link::../images/intuitive.png[]
 
 ## 直觉就在眨眼之间
 
