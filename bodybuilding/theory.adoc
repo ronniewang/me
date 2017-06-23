@@ -1,6 +1,6 @@
-![bodybuilding](/images/bodybuilding.png)
-
 # 健身的理论基础
+
+image::../../images/bodybuilding.png[]
 
 ## 1. 理论
 
