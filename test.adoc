@@ -1,0 +1,48 @@
+:toc:
+
+= Title
+
+link:test2.html[test2]
+
+WARNING: This is a warning
+
+[WARNING]
+This is a warning
+
+== Title2
+
+[source,java]
+----
+public class Test {
+
+}
+----
+
+[sidebar]
+.Related information
+--
+This is aside text.
+
+It is used to present information related to the main content.
+--
+
+== Title2.1
+
+[cols="2*"]
+|===
+|Firefox
+|Web Browser
+
+|Ruby
+|Programming Language
+
+|TorqueBox
+|Application Server
+|===
+
+a|Mozilla Firefox is an open-source web browser.
+It's designed for:
+
+* standards compliance,
+* performance and
+* portability.
