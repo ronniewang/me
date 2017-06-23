@@ -1,6 +1,6 @@
-![checklist](/images/checklist.png)
-
 # 我读《清单革命》
+
+image::../../images/checklist.png[]
 
 ## 无知之错和无能之错
 
