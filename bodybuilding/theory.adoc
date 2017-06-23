@@ -12,7 +12,7 @@ image::../../images/bodybuilding.png[]
 
 有氧和无氧运动的本质上是根据人体的供能系统所占的比重来区分的。一个运动是否是无氧和有氧主要取决于它的供能系统，取决于它的运动强度，然后才是取决于时间。
 
-更详细的解读请参考[这篇文章](https://zhuanlan.zhihu.com/p/19915080?columnSlug=jszxs)
+更详细的解读请参考https://zhuanlan.zhihu.com/p/19915080?columnSlug=jszxs[这篇文章]
 
 ### 肌肉增长的原因
 
@@ -23,14 +23,14 @@ image::../../images/bodybuilding.png[]
 ### 2.1. 动作做几下才好
 
 * 减重，8-15下
-  * 8-10
-  * 10-12
-  * 12-15
-  * 每2-4周改变次数
+** 8-10
+** 10-12
+** 12-15
+** 每2-4周改变次数
 * 增肌
-  * 高中低不同次数
-  * 2-4周改变次数，或者每次训练都改变
-  * 例如，周一5次，周三15次，周五10次
+** 高中低不同次数
+** 2-4周改变次数，或者每次训练都改变
+** 例如，周一5次，周三15次，周五10次
 
 ### 2.2. 重量选多重才好
 
@@ -88,27 +88,27 @@ image::../../images/bodybuilding.png[]
 
 ## 4. 怎么吃才好
 
-总结自[硬派健身](https://book.douban.com/subjectType/26359758/)
+总结自https://book.douban.com/subjectType/26359758/[硬派健身]
 
 三分靠练七分靠吃
 
-**蛋白质**
+*蛋白质*
 
 * 正常人每天0.8克/公斤/天, 健身时1.6-1.8克/公斤/天
 * 运动时按1.2克/公斤补充, 运动中补充乳清蛋白, 运动后补充酪蛋白
 
-**碳水化合物**
+*碳水化合物*
 
 * 运动前补充低GI碳水化合物, 如麦片
 * 运动后立即补充高GI碳水化合物
 * 运动中和运动后两小时内按1.2克/公斤补充碳水化合物, 每日则是5克/公斤范围内
 
-**脂肪**
+*脂肪*
 
 * 训练前2小时和训练后2小时不要摄入脂肪
 
 ## 5. 参考文献
 
-* 三大供能系统 &lt;https://zhuanlan.zhihu.com/p/19915080?columnSlug=jszxs&gt;
-* 《四周练出一身肌肉》 &lt;https://book.douban.com/subjectType/19980140/&gt;
-* 《硬派健身》 &lt;https://book.douban.com/subjectType/26359758/&gt;
+* 三大供能系统 https://zhuanlan.zhihu.com/p/19915080?columnSlug=jszxs
+* 《四周练出一身肌肉》 https://book.douban.com/subjectType/19980140/
+* 《硬派健身》 https://book.douban.com/subjectType/26359758/
