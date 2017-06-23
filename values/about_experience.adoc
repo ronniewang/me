@@ -26,7 +26,7 @@
 
 其中每个技能又包含大量的知识点，所以，做出真正的产品难度是很高的
 
-在这篇 http://www.zhibimo.com/read/xiaolai/growth/find-people-who-build-stuffs.html[文章]中，李笑来说绝大多数人（万分之九千九百九十九的人）一辈子都没有像样的作品，虽然这个比率不知道对不对，但是结合我自身的经验来看，真正做出过完整产品的确实不多
+在这篇http://www.zhibimo.com/read/xiaolai/growth/find-people-who-build-stuffs.html[文章]中，李笑来说绝大多数人（万分之九千九百九十九的人）一辈子都没有像样的作品，虽然这个比率不知道对不对，但是结合我自身的经验来看，真正做出过完整产品的确实不多
 
 所以说，真正的全栈工程师是很稀少的，也是很珍贵的
 
