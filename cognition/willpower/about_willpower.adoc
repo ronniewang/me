@@ -1,0 +1,3 @@
+= 关于意志力
+
+link:willpower_experiment[意志力实验]
