@@ -1,8 +1,8 @@
 # Welcome!
 :nofooter:
 
-* link:cognition/index.html[cognition]
-* link:bodybuilding/index.html[body building]
+* link:cognition/index.html[认知科学]
+* link:bodybuilding/index.html[健身]
 * link:values/about_experience.html[关于工作经验]
-* link:willpower/about_willpower.html[关于意志力]
 * link:investment/index.html[更新自己的操作系统]
+* link:psychology/index.html[关于心理学]

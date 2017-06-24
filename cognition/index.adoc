@@ -1,8 +1,5 @@
+= 思考，快与慢
 :nofooter:
-
-* link:switch/01.html[01-骑象人与大象：如何让你的世界变好一些]
-* link:switch/02.html[02-帮助骑象人，为你的改变找到闪光点]
-* link:switch/03.html[02-帮助骑象人：让骑者找出关键的改变]
 
 * link:think_fast_and_slow/01_angry_face_and_multiplication_problem.html[01-一张愤怒的脸和一道乘法题]
 * link:think_fast_and_slow/02_leading_role_and_supporting_role.html[02-电影主角与配角]
