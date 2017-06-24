@@ -14,7 +14,6 @@
 ** link:bodybuilding/core_muscle.html[我读《核心基础运动》]
 ** link:bodybuilding/theory.html[健身的理论基础]
 ** link:bodybuilding/about_running.html[关于跑步]
-* link:values/about_experience.html[关于工作经验]
 * 投资
 ** 通往财富自由之路
 *** link:investment/financial_freedom/01_financial_freedom.html[01-你真的理解财务自由吗]
@@ -44,4 +43,6 @@
 ** link:methodology/deliberately_practice.html[刻意练习]
 ** link:methodology/how_to_learn.html[怎样高效学习]
 ** link:methodology/checklist.html[清单革命]
-* link:essay/my_book_list.html[我的书单]
+* 随笔
+** link:values/about_experience.html[关于工作经验]
+** link:essay/my_book_list.html[我的书单]
