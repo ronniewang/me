@@ -2,6 +2,7 @@
 :nofooter:
 
 * link:cognition/index.html[认知科学]
+include::cognition/index.adoc[]
 * link:bodybuilding/index.html[健身]
 * link:values/about_experience.html[关于工作经验]
 * link:investment/index.html[更新自己的操作系统]
