@@ -4,6 +4,7 @@
 * 认知科学
 include::cognition/index.adoc[]
 * link:bodybuilding/index.html[健身]
+include::bodybuilding/index.adoc[]
 * link:values/about_experience.html[关于工作经验]
 * 投资
 include::investment/index.adoc[]
