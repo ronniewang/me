@@ -1,4 +1,5 @@
 # 怎样正确的沟通交流
+:nofooter:
 
 image::../../images/miscommunication.jpg[]
 

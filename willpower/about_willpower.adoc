@@ -1,3 +1,4 @@
 = 关于意志力
+:nofooter:
 
 link:willpower_experiment.html[意志力实验]

@@ -1,3 +1,5 @@
+:nofooter:
+
 * link:my_book_list.html[我的书单]
 * link:communication.html[怎样正确的沟通交流]
 * link:checklist.html[清单革命]
