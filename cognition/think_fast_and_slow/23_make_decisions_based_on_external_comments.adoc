@@ -1,4 +1,5 @@
 # 23-努力养成采纳外部意见的决策习惯
+:nofooter:
 
 image::../../images/decision.png[]
 

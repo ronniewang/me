@@ -1,4 +1,5 @@
 # 21-直觉判断与公式运算，孰优孰劣
+:nofooter:
 
 image::../../images/statistic.png[]
 

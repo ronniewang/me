@@ -1,4 +1,5 @@
 # 03-惰性思维与延迟满足的矛盾
+:nofooter:
 
 image::../../images/tired.png[]
 

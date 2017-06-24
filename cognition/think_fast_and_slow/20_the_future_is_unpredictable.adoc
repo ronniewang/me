@@ -1,4 +1,5 @@
 # 20-未来是不可预测的
+:nofooter:
 
 image::../../images/unpredictable.png[]
 

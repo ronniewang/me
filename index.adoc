@@ -22,6 +22,7 @@
 *** link:investment/financial_freedom/22_demand.html[22-刚需]
 *** link:investment/financial_freedom/42_start_quickly.html[42-快速入门]
 * 关于心理学
+** link:psychology/communication.html[怎样正确的沟通交流]
 ** 瞬变
 *** link:psychology/switch/01.html[01-骑象人与大象：如何让你的世界变好一些]
 *** link:psychology/switch/02.html[02-帮助骑象人，为你的改变找到闪光点]
@@ -42,3 +43,5 @@
 * 方法论
 ** link:methodology/deliberately_practice.html[刻意练习]
 ** link:methodology/how_to_learn.html[怎样高效学习]
+** link:methodology/checklist.html[清单革命]
+* link:essay/my_book_list.html[我的书单]

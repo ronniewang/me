@@ -1,4 +1,5 @@
 # 22-什么时候可以相信专家的直觉
+:nofooter:
 
 image::../../images/intuitive.png[]
 

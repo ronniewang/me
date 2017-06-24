@@ -1,4 +1,5 @@
 # 02-电影主角与配角
+:nofooter:
 
 image::../../images/role.png[]
 

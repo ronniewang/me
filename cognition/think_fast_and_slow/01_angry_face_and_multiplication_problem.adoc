@@ -1,4 +1,5 @@
 = 01-一张愤怒的脸和一道乘法题
+:nofooter:
 
 image::../../images/system.png[]
 
