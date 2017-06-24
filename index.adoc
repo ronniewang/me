@@ -7,3 +7,4 @@
 * link:investment/index.html[更新自己的操作系统]
 * link:psychology/index.html[关于心理学]
 * link:design/index.html[关于设计]
+** include::design/index.adoc
