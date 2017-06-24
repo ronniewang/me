@@ -47,3 +47,6 @@
 ** link:values/about_experience.html[关于工作经验]
 ** link:essay/remote_work.html[远程工作]
 ** link:essay/my_book_list.html[我的书单]
+* 技术
+** link:tech/yum_and_rpm.html[yum与rpm的关系]
+** link:tech/unit_test.html[关于单元测试]
