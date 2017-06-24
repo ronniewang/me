@@ -1,5 +1,2 @@
-= 关于设计
-:nofooter:
-
-* link:design_briefly.html[我读《简约至上：交互式设计四策略》]
-* link:design_for_normal.html[我读《写给大家看的设计书》]
+** link:design_briefly.html[我读《简约至上：交互式设计四策略》]
+** link:design_for_normal.html[我读《写给大家看的设计书》]
