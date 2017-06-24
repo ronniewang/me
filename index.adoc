@@ -1,15 +1,15 @@
 # Welcome!
 :nofooter:
 
-* link:cognition/index.html[认知科学]
+* 认知科学
 include::cognition/index.adoc[]
 * link:bodybuilding/index.html[健身]
 * link:values/about_experience.html[关于工作经验]
-* link:investment/index.html[投资]
+* 投资
 include::investment/index.adoc[]
-* link:psychology/index.html[关于心理学]
+* 关于心理学
 include::psychology/index.adoc[]
-* link:design/index.html[关于设计]
+* 关于设计
 include::design/index.adoc[]
-* link:methodology/index.html[方法论]
+* 方法论
 include::methodology/index.adoc[]
