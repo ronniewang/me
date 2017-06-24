@@ -14,6 +14,7 @@
 ** link:bodybuilding/core_muscle.html[我读《核心基础运动》]
 ** link:bodybuilding/theory.html[健身的理论基础]
 ** link:bodybuilding/about_running.html[关于跑步]
+** link:bodybuilding/stretch.html[我读《拉伸——最好的运动》]
 * 投资
 ** 通往财富自由之路
 *** link:investment/financial_freedom/01_financial_freedom.html[01-你真的理解财务自由吗]
