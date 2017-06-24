@@ -45,4 +45,5 @@
 ** link:methodology/checklist.html[清单革命]
 * 随笔
 ** link:values/about_experience.html[关于工作经验]
+** link:essay/remote_work.html[远程工作]
 ** link:essay/my_book_list.html[我的书单]
