@@ -103,7 +103,7 @@ public class SampleTest {
 
 *Mock框架实例*
 
-```java
+[source,java]
 package com.spider.service;
 
 import com.spider.entity.ServiceStateEntity;
@@ -185,9 +185,6 @@ public class HeartBeatServiceImplTest {
         verifyNoMoreInteractions(serviceStateRepository);
     }
 }
-```
-
-----
 
 == 怎样写好单元测试
 
