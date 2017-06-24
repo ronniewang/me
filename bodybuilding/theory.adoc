@@ -1,4 +1,5 @@
 # 健身的理论基础
+:nofooter:
 
 image::../../images/bodybuilding.png[]
 

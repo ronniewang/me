@@ -1,0 +1,6 @@
+# 得到——通往财富自由之路
+:nofooter:
+
+* link:01_financial_freedom.html[01-你真的理解财务自由吗]
+* link:02_three_rules.html[02-出售时间之前你要牢记的三条铁律]
+* link:42_start_quickly.html[42-快速入门]

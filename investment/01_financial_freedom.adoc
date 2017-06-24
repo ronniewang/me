@@ -1,6 +1,7 @@
-![freedom](/images/freedom.png)
-
 # 01-你真的理解财务自由吗
+:nofooter:
+
+image::../../images/freedom.png[]
 
 ## 理解财富自由
 

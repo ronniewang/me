@@ -1,6 +1,7 @@
-![rule](/images/rule.png)
-
 # 02-出售时间之前你要牢记的三条铁律
+:nofooter:
+
+image::../../images/rule.png[]
 
 在你出售你的时间之前，一定要想清楚
 
