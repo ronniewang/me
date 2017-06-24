@@ -4,7 +4,12 @@
 * 瞬变
 ** link:switch/01.html[01-骑象人与大象：如何让你的世界变好一些]
 ** link:switch/02.html[02-帮助骑象人，为你的改变找到闪光点]
-** link:switch/03.html[02-帮助骑象人：让骑者找出关键的改变]
+** link:switch/03.html[03-帮助骑象人：让骑者找出关键的改变]
+** link:switch/04.html[04-帮助骑象人：让骑者找到改变的方向]
+** link:switch/05.html[05-管好你的大象：让它找到感觉]
+** link:switch/06.html[06-管好你的大象：降低改变的门槛]
+** link:switch/07.html[07-管好你的大象：增加你的人气]
+** link:switch/08.html[08-让大象找到新的道路，改变外部环境]
 
 * 意志力
 ** link:willpower/about_willpower.html[关于意志力]
