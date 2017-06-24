@@ -1,3 +1,6 @@
+= 
+:nofooter:
+
 ** link:bodybuilding/core_muscle.html[我读《核心基础运动》]
 ** link:bodybuilding/theory.html[健身的理论基础]
 ** link:bodybuilding/about_running.html[关于跑步]
