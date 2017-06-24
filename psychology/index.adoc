@@ -11,6 +11,7 @@
 ** link:switch/07.html[07-管好你的大象：增加你的人气]
 ** link:switch/08.html[08-让大象找到新的道路，改变外部环境]
 ** link:switch/09.html[09-让大象找到新的道路：形成新的习惯]
+** link:switch/10.html[10-让大象找到新的道路：来自同伴的压力]
 
 * 意志力
 ** link:willpower/about_willpower.html[关于意志力]
