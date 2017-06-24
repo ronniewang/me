@@ -17,6 +17,6 @@ image::../../images/running.png[]
 == 资源
 
 * 微信公众号：慧跑
-* 热身视频：https://www.youtube.com/watch?v=R0mMyV5OtcM&list=PLXXG57z7E3OKBW9D9pIlqrDRmS0LNRqli&index=3
-* 拉伸视频：https://www.youtube.com/watch?v=sPULneNy6L0&t=1017s&list=PLXXG57z7E3OKBW9D9pIlqrDRmS0LNRqli&index=2
+* 热身视频： https://www.youtube.com/watch?v=R0mMyV5OtcM&list=PLXXG57z7E3OKBW9D9pIlqrDRmS0LNRqli&index=3
+* 拉伸视频： https://www.youtube.com/watch?v=sPULneNy6L0&t=1017s&list=PLXXG57z7E3OKBW9D9pIlqrDRmS0LNRqli&index=2
 * APP：悦跑圈
