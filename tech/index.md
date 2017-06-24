@@ -1,1 +1,0 @@
-* [yum与rpm的关系](tech-yum_and_rpm)

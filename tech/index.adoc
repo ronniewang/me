@@ -1,0 +1,3 @@
+= 关于技术
+
+* link:yum_and_rpm.html[yum与rpm的关系]
