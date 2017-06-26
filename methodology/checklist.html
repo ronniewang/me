@@ -626,6 +626,45 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 </div>
 </div>
 </div>
+<div class="sect1">
+<h2 id="_示例">示例</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>例如，我们要修改多机房应用的tomcat配置，每个机房又有多个tomcat，就需要如下步骤</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>在nginx上，将要上的机器修改为backup，并记录</p>
+</li>
+<li>
+<p>确认无请求转发过去</p>
+</li>
+<li>
+<p>修改脚本参数，确认是否是正确的机房</p>
+</li>
+<li>
+<p>执行脚本</p>
+</li>
+<li>
+<p>测试服务是否正常</p>
+</li>
+<li>
+<p>将机器改回上线状态</p>
+</li>
+<li>
+<p>确认是否已正常处理请求</p>
+</li>
+<li>
+<p>处理其他机器，回到1</p>
+</li>
+</ol>
+</div>
+<div class="paragraph">
+<p>根据这个列表，出错的概率就大大降低了，而且也降低了大脑的工作量</p>
+</div>
+</div>
+</div>
 </div>
 </body>
 </html>
