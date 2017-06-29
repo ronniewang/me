@@ -28,3 +28,23 @@ server {
 == 测试
 
 ok
+
+[cols="2,3,5a"]
+|===
+|Name |Group |Description
+
+|Firefox
+|Web Browser
+|Mozilla Firefox is an open-source web browser.
+It's designed for:
+
+* standards compliance,
+* performance and
+* portability.
+
+|Ruby
+|Programming Language
+|A programmer's best friend.
+
+|===
+
