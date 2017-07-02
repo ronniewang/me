@@ -53,3 +53,5 @@
 * 技术
 ** link:tech/yum_and_rpm.html[yum与rpm的关系]
 ** link:tech/unit_test.html[关于单元测试]
+* 反脆弱
+** link:antifragile/fragile_push_hand.html[脆弱推手们]
