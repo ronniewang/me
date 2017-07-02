@@ -39,13 +39,13 @@
 
 * 给骑象人提供方向
 ** link:02.html[为你的改变找到闪光点]
-** link:03.html让骑者找到关键的改变]
-** link:04.html让骑者找到改变的方向]
+** link:03.html[让骑者找到关键的改变]
+** link:04.html[让骑者找到改变的方向]
 * 让大象行动起来
-** link:05.html让它找到感觉]
-** link:06.html降低改变的门槛]
-** link:07.html增加你的人气]
+** link:05.html[让它找到感觉]
+** link:06.html[降低改变的门槛]
+** link:07.html[增加你的人气]
 * 形成具体的路径
-** link:08.html改变外部环境]
-** link:09.html形成新的习惯]
-** link:20.html来自同伴的压力]
+** link:08.html[改变外部环境]
+** link:09.html[形成新的习惯]
+** link:20.html[来自同伴的压力]
