@@ -1,8 +1,6 @@
 # 健身的理论基础
 :nofooter:
 
-image::../../images/bodybuilding.png[]
-
 ## 1. 理论
 
 ### 三大供能系统
