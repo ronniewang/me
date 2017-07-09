@@ -108,6 +108,8 @@ image::../../images/bodybuilding.png[]
 
 * 训练前2小时和训练后2小时不要摄入脂肪
 
+对于营养元素的更多了解请参考 link:fitness_nutrition.html[另一篇文章]，但是这两篇中对运动中补充的蛋白质和碳水化合物的补充量有所出入，还需要再次确认
+
 ## 5. 参考文献
 
 * 三大供能系统 https://zhuanlan.zhihu.com/p/19915080?columnSlug=jszxs
