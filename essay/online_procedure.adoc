@@ -10,26 +10,26 @@
 
 每个机房所有机器可分两次或三次上线，一次上线2-3台机器，步骤如下
 
-在qlb上将待上线机器改为backup
+=== 在qlb上将待上线机器改为backup
 
 [%interactive]
 * [ ] 查看access_log确认qlb已经没有请求转发到该机器
 
-jenkins部署
+=== jenkins部署
 
 [%interactive]
 * [ ] 确认操作机房是否正确
 * [ ] 确认机器参数是否正确
 * [ ] 确认部署是否成功
 
-测试
+=== 测试
 
 [%interactive]
 * [ ] 确认shorten接口可以正常返回
 * [ ] 确认shorten返回的短域名在刚上线的机器上可以正常redirect
 * [ ] 确认shorten返回的短域名在未上线的机器上可以正常redirect
 
-将qlb的backup改回上线状态
+=== 将qlb的backup改回上线状态
 
 [%interactive]
 * [ ] 确认已经有请求被转发到这台机器
