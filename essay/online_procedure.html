@@ -445,20 +445,19 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="paragraph">
 <p>每个机房所有机器可分两次或三次上线，一次上线2-3台机器，步骤如下</p>
 </div>
+<div class="paragraph">
+<p>在qlb上将待上线机器改为backup</p>
+</div>
 <div class="ulist checklist">
 <ul class="checklist">
 <li>
-<p><input type="checkbox" data-item-complete="0"> 在qlb上将待上线机器改为backup</p>
-<div class="ulist checklist">
-<ul class="checklist">
-<li>
-<p>&#10063; 查看access_log确认qlb已经没有请求转发到该机器</p>
+<p><input type="checkbox" data-item-complete="0"> 查看access_log确认qlb已经没有请求转发到该机器</p>
 </li>
 </ul>
 </div>
-</li>
-<li>
-<p><input type="checkbox" data-item-complete="0"> jenkins部署</p>
+<div class="paragraph">
+<p>jenkins部署</p>
+</div>
 <div class="ulist checklist">
 <ul class="checklist">
 <li>
@@ -468,9 +467,15 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <p>&#10063; 确认机器参数是否正确</p>
 </li>
 <li>
-<p>&#10063; 确认部署是否成功
-*[ ] 测试</p>
+<p>&#10063; 确认部署是否成功</p>
 </li>
+</ul>
+</div>
+<div class="paragraph">
+<p>测试</p>
+</div>
+<div class="ulist checklist">
+<ul class="checklist">
 <li>
 <p>&#10063; 确认shorten接口可以正常返回</p>
 </li>
@@ -482,16 +487,13 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 </li>
 </ul>
 </div>
-</li>
-<li>
-<p><input type="checkbox" data-item-complete="0"> 将qlb的backup改回上线状态</p>
+<div class="paragraph">
+<p>将qlb的backup改回上线状态</p>
+</div>
 <div class="ulist checklist">
 <ul class="checklist">
 <li>
 <p>&#10063; 确认已经有请求被转发到这台机器</p>
-</li>
-</ul>
-</div>
 </li>
 </ul>
 </div>
