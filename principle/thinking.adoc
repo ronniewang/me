@@ -1,4 +1,5 @@
 = 思考的原则
 :nofooter:
 
-[] 反过来想
+[%interactive]
+* [ ] 反过来想
