@@ -51,6 +51,7 @@
 ** link:essay/remote_work.html[远程工作]
 ** link:essay/my_book_list.html[我的书单]
 ** link:essay/duan_she_li.html[断舍离]
+** link:essay/billard_tech.html[台球技术细节检查表]
 * 技术
 ** link:tech/yum_and_rpm.html[yum与rpm的关系]
 ** link:tech/unit_test.html[关于单元测试]
