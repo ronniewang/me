@@ -25,7 +25,7 @@
 *** link:investment/financial_freedom/48_buy_service.html[48-付费就是捡便宜]
 * 关于心理学
 ** 亲密关系
-*** link:psychology/communication.html[怎样正确的沟通交流]
+*** link:psychology/intimate_relationship/communication.html[怎样正确的沟通交流]
 *** link:psychology/intimate_relationship/conflict.html[冲突]
 ** 瞬变
 *** link:psychology/switch/01.html[01-骑象人与大象：如何让你的世界变好一些]
