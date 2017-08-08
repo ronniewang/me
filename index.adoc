@@ -62,4 +62,4 @@
 * 原则
 ** link:principle/00-catalog.html[目录]
 * values
-** link:values/compund_interest.html[复利的力量]
+** link:values/compound_interest.html[复利的力量]
