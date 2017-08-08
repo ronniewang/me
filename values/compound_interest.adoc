@@ -32,4 +32,4 @@
 * 2045	14460147
 * 2046	15736959
 
-image::compund_interest.gif[]
+image::./compund_interest.gif[]
