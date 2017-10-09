@@ -1,4 +1,4 @@
-= 思考的原则
+# 思考的原则
 :nofooter:
 
 [%interactive]

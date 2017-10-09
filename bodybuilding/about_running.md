@@ -1,8 +1,6 @@
-= 关于跑步
+# 关于跑步
 
-image::../../images/running.png[]
-
-== 缘起
+## 缘起
 
 2017-05-13日，公司组织了一次10公里的比赛，对于一个近4，5年最远只跑过3公里的人，无疑是个挑战，最终结果我竟然完成了，哈哈，也算对自己刮目相看了
 
@@ -14,9 +12,9 @@ image::../../images/running.png[]
 
 下面是我常看的一些跑步资源
 
-== 资源
+## 资源
 
 * 微信公众号：慧跑
-* 热身视频： https://www.youtube.com/watch?v=R0mMyV5OtcM&list=PLXXG57z7E3OKBW9D9pIlqrDRmS0LNRqli&index=3
-* 拉伸视频： https://www.youtube.com/watch?v=sPULneNy6L0&t=1017s&list=PLXXG57z7E3OKBW9D9pIlqrDRmS0LNRqli&index=2
+* 热身视频： https://www.youtube.com/watch?v#R0mMyV5OtcM&list#PLXXG57z7E3OKBW9D9pIlqrDRmS0LNRqli&index#3
+* 拉伸视频： https://www.youtube.com/watch?v#sPULneNy6L0&t#1017s&list#PLXXG57z7E3OKBW9D9pIlqrDRmS0LNRqli&index#2
 * APP：悦跑圈

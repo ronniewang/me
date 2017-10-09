@@ -1,21 +1,21 @@
-= 关于单元测试
+# 关于单元测试
 :nofooter:
 
 本笔记主要来源于《单元测试的艺术》一书和本人些许经验
 
-== 概述
+## 概述
 
 * 什么是单元测试
 * 单元测试的核心技术
 * 怎样写好单元测试
 
-== 什么是单元测试
+## 什么是单元测试
 
-=== 单元测试定义
+### 单元测试定义
 
 一个单元测试是一段自动化的代码，这段代码调用被测试的工作单元，之后对这个工作单元的单个最终结果的某些假设进行验证。单元测试几乎都是用单元测试框架编写的，能快速运行。单元测试可靠，可读，可维护。只要产品代码不发生变化，单元测试的结果是稳定的
 
-=== 集成测试
+### 集成测试
 
 一般具有如下属性的，就认为是集成测试
 
@@ -23,19 +23,19 @@
 * 不稳定
 * 有外部依赖
 
-=== 单元测试的好处
+### 单元测试的好处
 
 * 可做开发文档
 * 重构或修改代码更有信心
 * 对自己的程序设计更清晰
 
-=== 测试的三种类型
+### 测试的三种类型
 
 * 测试返回值
 * 测试系统状态改变
 * 测试第三方调用
 
-=== 单元测试框架
+### 单元测试框架
 
 * 编写测试更容易
 ** 提供基础类和接口
@@ -57,7 +57,7 @@
 ** 失败的代码位置
 ** 异常信息
 
-=== 第一个单元测试
+### 第一个单元测试
 
 ```
 public class Sample {
@@ -72,9 +72,9 @@ public class SampleTest {
     @Test
     public void testHello() {
         //prepare
-        String expected = "Hello Ronnie";
+        String expected # "Hello Ronnie";
         //call
-        String result = Sample.hello("Ronnie");
+        String result # Sample.hello("Ronnie");
         //validate
         assertEquals(result, expected, "not correct");
     } 
@@ -89,9 +89,9 @@ public class SampleTest {
 
 ----
 
-== 单元测试核心技术
+## 单元测试核心技术
 
-=== Mock/Stub
+### Mock/Stub
 
 * Mock和Stub都是模拟对象
 * Mock对象会使测试失败，测试时会对Mock对象进行断言
@@ -135,7 +135,7 @@ public class HeartBeatServiceImplTest {
     @Mock
     private ServiceStateHistoryRepository serviceStateHistoryRepository;
 
-    @Test(expected = NullPointerException.class)
+    @Test(expected # NullPointerException.class)
     public void heartBeat_PassNullArgument_ThrowNullPointerException() {
         heartBeatService.heartBeat(ServiceName.LiJiRobot.getName(), null, null, true, "");
     }
@@ -186,9 +186,9 @@ public class HeartBeatServiceImplTest {
     }
 }
 
-== 怎样写好单元测试
+## 怎样写好单元测试
 
-=== 测试的层次和组织
+### 测试的层次和组织
 
 * 运行自动化测试的自动化构建
 * 持续集成服务器
@@ -206,7 +206,7 @@ public class HeartBeatServiceImplTest {
     ** 一个功能点关联一个测试类
 ** 将测试映射到具体的工作单元，testMethod_Senario_Behavior
 
-=== 优秀的单元测试
+### 优秀的单元测试
 
 1. 可靠性（测试成功了，就说明产品代码没有问题，测试失败了，就说明产品代码写错了，无需怀疑是测试代码的问题）
 2. 可维护性（当项目紧的时候，开发功能尚需加班加点，没有人会为不可维护的测试代码耗费精力）
@@ -218,7 +218,7 @@ public class HeartBeatServiceImplTest {
 
 * 决定何时修改或删除测试
 ** 产品代码缺陷，如果测试没错确实是产品代码错误，那就修改产品代码，这正是单元测试的有用之处
-** 测试代码缺陷，很让人郁闷，测试本应该是正确的（拒绝=>诧异=>调试=>接受和顿悟），感觉受到10000点伤害。。。
+** 测试代码缺陷，很让人郁闷，测试本应该是正确的（拒绝#>诧异#>调试#>接受和顿悟），感觉受到10000点伤害。。。
 ** 语义或API变更
 ** 冲突或无效的测试，多数是由于冲突的需求引起的
 ** 重命名或者重构测试
@@ -277,9 +277,9 @@ public class HeartBeatServiceImplTest {
 * 不要乱用setUp和tearDown
 
 
-== 设计和流程
+## 设计和流程
 
-=== 在组织中引入单元测试
+### 在组织中引入单元测试
 
 * 逐步成为变革的倡导者（略）
 * 成功之道（略）
@@ -302,6 +302,6 @@ public class HeartBeatServiceImplTest {
 
 大部分缺陷不是来自代码本身，而是由人们之间的误解，不断变化的需求以及领域知识的缺少导致的
 
-== 遗留代码（略）
+## 遗留代码（略）
 
-== 设计与可测试性（略）
+## 设计与可测试性（略）

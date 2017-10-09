@@ -1,4 +1,4 @@
-= 原则的重要性
+# 原则的重要性
 :nofooter:
 
 I believe that having principles that work is essential for getting what we want out of life. I also believe that to understand each other we have to understand each other’s principles. That is why I believe we need to talk about them.
